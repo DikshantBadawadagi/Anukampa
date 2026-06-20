@@ -1,0 +1,5 @@
+#add venv from all directories
+**/venv/
+
+#add pycache from all directories
+**/__pycache__/
